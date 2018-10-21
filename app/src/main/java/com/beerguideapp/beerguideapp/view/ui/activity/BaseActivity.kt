@@ -19,7 +19,4 @@ abstract class BaseActivity : AppCompatActivity() {
         super.onBackPressed()
     }
 
-    abstract fun fragment(): BaseFragment
-
-
 }

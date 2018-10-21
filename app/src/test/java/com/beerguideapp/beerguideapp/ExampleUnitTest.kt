@@ -1,4 +1,4 @@
-package com.mertceyhan.beerguideapp
+package com.beerguideapp.beerguideapp
 
 import org.junit.Test
 

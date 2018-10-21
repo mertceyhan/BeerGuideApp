@@ -1,4 +1,4 @@
-package com.mertceyhan.beerguideapp
+package com.beerguideapp.beerguideapp
 
 import android.support.test.InstrumentationRegistry
 import android.support.test.runner.AndroidJUnit4
