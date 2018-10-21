@@ -1,7 +1,8 @@
-package com.mertceyhan.beerguideapp
+package com.beerguideapp.beerguideapp.view.ui.activity
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import com.beerguideapp.beerguideapp.R
 
 class MainActivity : AppCompatActivity() {
 
