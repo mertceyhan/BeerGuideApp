@@ -11,9 +11,6 @@ class MainActivity : BaseActivity() {
         super.onCreate(savedInstanceState)
     }
 
-    override fun getLayoutResourceId(): Int {
-
-        return R.layout.activity_main
-    }
+    override fun getLayoutResourceId(): Int = R.layout.activity_main
 
 }
