@@ -49,6 +49,8 @@ dependencies {
 
     //Retrofit
     implementation "com.squareup.retrofit2:retrofit:${libraries.retrofit}"
+    implementation "com.squareup.retrofit2:converter-gson:${libraries.retrofit}"
+
 
     //Picasso
     implementation "com.squareup.picasso:picasso:${libraries.picasso}"
