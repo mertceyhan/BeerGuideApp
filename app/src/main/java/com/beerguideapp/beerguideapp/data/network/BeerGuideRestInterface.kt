@@ -1,8 +1,8 @@
-package com.beerguideapp.beerguideapp.network
+package com.beerguideapp.beerguideapp.data.network
 
 import retrofit2.http.GET
 
 interface BeerGuideRestInterface {
-    @GET("beerList")
+    @GET("[END_POINT]")
     fun getAllBeerList()
 }
