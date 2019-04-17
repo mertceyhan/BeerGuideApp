@@ -55,4 +55,8 @@ dependencies {
     //Picasso
     implementation "com.squareup.picasso:picasso:${libraries.picasso}"
 
+    //Koin
+    implementation "org.koin:koin-core:${libraries.koinVersion}"
+    implementation "org.koin:koin-android:${libraries.koinVersion}"
+
 }
