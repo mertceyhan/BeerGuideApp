@@ -21,6 +21,7 @@ class MainActivity : BaseActivity() {
             }
 
             override fun onResponse(call: Call<List<Post>>, response: Response<List<Post>>) {
+
                 Log.v("Koin is alive!", response.body().toString())
             }
 
